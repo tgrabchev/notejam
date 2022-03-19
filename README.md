@@ -1,1 +1,1 @@
-# notejam
+# Notejam AWS infrastructure
