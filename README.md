@@ -17,6 +17,7 @@ This repository contains an example of 2 infrastructures from on-premise to AWS 
   - VPC 
   - 2 Subnets in two availability zones
   - Internet Gateway
+  - Cloud Trail to capture all management and IAM API calls stored in S3 bucket
   - Load Balancer to server the Auto scaling group e.g EC2 instances
   - Auto Scaling group configured to scale based on the needs 
   - Cloud Watch alarms attached to the Auto Scaling
