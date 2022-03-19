@@ -5,7 +5,7 @@ This repository contains an example of 2 infrastructures from on-premise to AWS 
 
 ## The AWS Infrastructure as Code
 
-- The infrastructure code can be found in the Infrastructure folder
+- The Infrastructure code can be found in the Infrastructure folder
 - The documentation/diagrams can be found in the Documents folder
 - All the Terraform files can be used as module to be install for Test and Dev in further stage of the project
 
