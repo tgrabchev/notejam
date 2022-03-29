@@ -28,7 +28,6 @@ This repository contains an example of 2 infrastructures from on-premise to AWS 
 - Further Improvements for the solution
   - Configuring Route53 to manage DNS names and ELB routes
   - AWS WAF can
-  - To provide secure access to instances located in the private and public subnets, bastion host could be provisioned
   - For redundancy and reducing latency separate cluster in another region could be provisioned
   - In case of entire region disaster - incoming traffic could be shifted to another region using Route53 Failover Routing Policy
   - For DB high availability and reliability the MultiAZ configuration with one read replica can be used
